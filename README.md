@@ -28,23 +28,23 @@ npm install
 ## ▶️ Usage
 
 Start the application in development mode:
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 Build the application for production:
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ---
 
 ## 🔗 MT5 Integration
 
 To connect with **MetaTrader 5**, download the `MTAPI.ex5` file from the [Releases](../../releases) page and place it inside your MT5 **Experts** directory:
-\`\`\`text
+```text
 MQL5/Experts/MTAPI.ex5
-\`\`\`
+```
 
 Then restart MT5 and enable the Expert Advisor.
 🤝 Contributing
