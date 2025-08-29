@@ -13,10 +13,10 @@ It allows traders to send and manage orders directly from TradingView to **MetaT
 ## 📦 Installation
 
 Clone the repository:
-\`\`\`bash
+```bash
 git clone https://github.com/<username>/TradingView.git
 cd TradingView
-\`\`\`
+```
 
 Install dependencies:
 \`\`\`bash
