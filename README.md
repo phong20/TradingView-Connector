@@ -19,9 +19,9 @@ cd TradingView
 ```
 
 Install dependencies:
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ---
 
