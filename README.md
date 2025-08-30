@@ -14,7 +14,7 @@ It allows traders to send and manage orders directly from TradingView to **MetaT
 
 Clone the repository:
 ```bash
-git clone https://github.com/<username>/TradingView.git
+git clone https://github.com/phong20/TradingView-Connector.git
 cd TradingView
 ```
 
